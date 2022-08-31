@@ -1,0 +1,33 @@
+.top-menu{
+    background-color: #4BD7DA;
+}
+
+h3.title{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    flood-color: #111111;
+}
+
+h4.title{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.container{
+    background-color: #4BD7DA;
+    text-align: center;
+}
+
+.credits{
+    background-color: #111111;
+    text-align: center;
+    font-weight: 200;
+}
+ p1{
+    font-size: larger;
+    
+ }
+ 
+
+
